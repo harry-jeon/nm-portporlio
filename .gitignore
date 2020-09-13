@@ -1,3 +1,7 @@
 # Project exclude paths
+# IDE ingore
 .gradle
 .idea
+
+# JAVA class files
+*.class

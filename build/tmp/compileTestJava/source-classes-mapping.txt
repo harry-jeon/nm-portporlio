@@ -1,0 +1,2 @@
+com/namme/portfolio/springboot/HelloControllerTest.java
+ com.namme.portfolio.springboot.HelloControllerTest

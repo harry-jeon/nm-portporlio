@@ -1,0 +1,9 @@
+/build/
+/config/
+/dist/
+/*.js
+/test/unit/coverage/
+/src/pages/
+/src/layout/
+/src/components/
+/src/
